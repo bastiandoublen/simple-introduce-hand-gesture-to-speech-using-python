@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 import pickle
 
 # Path data
-DATA_DIR = 'data'
+DATA_DIR = 'dataset'
 GESTURES = ['hi', 'my_name_is', 'bastian', 'nice_to_meet_u']
 
 # Load data

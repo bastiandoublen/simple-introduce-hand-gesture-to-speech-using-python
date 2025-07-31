@@ -26,7 +26,7 @@ pygame.mixer.init()
 label_map = {
     'hi': "Hi",
     'my_name_is': "My name is",
-    'bastian': "Bastian",
+    'your_name': "your_name",
     'nice_to_meet_u': "Nice to meet you"
 }
 

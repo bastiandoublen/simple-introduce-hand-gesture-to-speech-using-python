@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 import random
 
-DATA_DIR = 'data'
+DATA_DIR = 'dataset'
 
 def duplicate_file(source_file, target_dir):
     """Duplikasi file dengan nama unik"""

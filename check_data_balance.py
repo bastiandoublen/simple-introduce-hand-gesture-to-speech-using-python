@@ -1,7 +1,7 @@
 import os
 
 # Lokasi folder data
-DATA_DIR = 'data'
+DATA_DIR = 'dataset'
 
 # Target jumlah minimal yang diinginkan (ambil dari gesture dengan jumlah terbanyak)
 def analyze_gesture_data(data_dir):

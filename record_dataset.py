@@ -18,7 +18,7 @@ gesture_labels = {
 }
 
 # Buat folder data kalau belum ada
-DATA_DIR = 'data'
+DATA_DIR = 'dataset'
 os.makedirs(DATA_DIR, exist_ok=True)
 for label in gesture_labels.values():
     os.makedirs(os.path.join(DATA_DIR, label), exist_ok=True)
